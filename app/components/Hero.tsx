@@ -158,7 +158,10 @@ export default function Hero() {
                 <span className="absolute inset-0 bg-white/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
               </a>
               <a
-                href="#"
+                href="/Mohith_Ramesh_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                download
                 className="inline-flex items-center justify-center h-[46px] px-[22px] border border-white/[0.1] hover:border-[#7c3aed]/50 text-[#94a3b8] hover:text-white text-sm rounded-[10px] font-medium transition-all duration-200 hover:bg-[#7c3aed]/10"
               >
                 Download Resume
